@@ -1,5 +1,4 @@
-# City_Weather
-or Weather App
+# City_Weather or Weather App
 
 A responsive weather application built using **HTML**, **CSS**, and **JavaScript**, powered by the **OpenWeatherMap API**. Enter any city to view real-time temperature, weather conditions, humidity, and wind speed with dynamic icons.
 
